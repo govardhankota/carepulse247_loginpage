@@ -1,0 +1,11 @@
+doctor_id,doctor_name,specialization,experience_years,shift,city,address
+D001,Dr. Sarah Lee,Internal Medicine,14,Night,Phoenix,"1997 Willow St, Boston, TX 68183"
+D002,Dr. Arjun Patel,Pulmonology,20,Day,Chicago,"420 Ash Ave, Miami, GA 86302"
+D003,Dr. Maria Lopez,Family Medicine,9,Day,Denver,"8041 Pine Ave, Chicago, TX 75392"
+D004,Dr. Ethan Chen,Pulmonology,21,Day,Denver,"1322 Cedar Ave, San Diego, TX 68026"
+D005,Dr. Aisha Khan,Family Medicine,21,Day,San Diego,"9277 Ash Dr, Denver, AZ 82362"
+D006,Dr. Daniel Kim,Endocrinology,8,Night,Dallas,"2494 Cherry Ln, Seattle, GA 89577"
+D007,Dr. Priya Reddy,Pulmonology,7,Night,Chicago,"8315 Birch Blvd, Dallas, CO 77413"
+D008,Dr. James O'Connor,Geriatrics,22,Day,Atlanta,"539 Oak Ave, Dallas, IL 92213"
+D009,Dr. Mei Tan,Internal Medicine,15,Day,Miami,"1248 Cherry Dr, Miami, AZ 97455"
+D010,Dr. Luis Alvarez,Geriatrics,13,Day,Dallas,"5320 Cherry Dr, Houston, MA 71147"
